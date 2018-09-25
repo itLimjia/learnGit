@@ -1,0 +1,2 @@
+how to use a git
+please follow the master
