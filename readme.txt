@@ -5,5 +5,7 @@ May be you are right.
 I wrote an article again.
 --
 How to WRITE a tip for modifying cleatly?
+Learn how to use git checkout -- <file> command
+
 
 
